@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.blue{
+    width: 30%;
+    height: 50vh;
+    background-color: blue;
+}
+.red{
+    width: 30%;
+    height: 50vh;
+    background-color: red;
+}
