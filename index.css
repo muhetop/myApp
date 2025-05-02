@@ -1,15 +1,72 @@
-.container{
+h1{
+    color: aqua;
+}
+h2{
+    color: blueviolet;
+}
+h3{
+    color: brown;
+}
+h4{
+    color: black;
+}
+h5{
+    color: green;
+}
+h5{
+    color: greenyellow;
+}
+h6{
+    color: goldenrod;
+}
+.name{
+    color: brown;
+}
+#country{
+    color: blue;
+}
+#how{
+    color: blueviolet;
+}
+#text{
+    color: black;
+}
+#text2{
+    color: aqua;
+}
+
+
+.sec1{
     display: flex;
-    justify-content: center;
-    gap: 5px;
+   justify-content: center;
+   gap: 8px;
+
 }
-.blue{
-    width: 30%;
-    height: 50vh;
-    background-color: blue;
+
+.box1{
+    width: 25%;
+    height: 100%;
+    background: green;
+    border: 2px sold red;
+    border-radius: 5px;
 }
-.red{
-    width: 30%;
-    height: 50vh;
-    background-color: red;
+.box2{
+    width: 25%;
+    height: 100%;
+    background: red;
+    border: 2px sold yellow;
+    border-radius: 5px;
+}
+
+.da{
+    background-color: #fff;
+}
+.db{
+    background-color: #000;
+}
+.aa{
+    background-color: blanchedalmond;
+}
+.ab{
+    background-color: aqua;
 }
